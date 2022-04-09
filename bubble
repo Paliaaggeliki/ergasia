@@ -26,9 +26,6 @@ int main()
         }
         i++;
     }
-    
-    for (i=0; i<N; i++)
-        printf("%d \n", A[i]);
         
     return 0;
 }
